@@ -51,14 +51,6 @@ AI 作为独立认知实体决定：
 - [SKILL.md](SKILL.md) - Full skill documentation (English)
 - [SKILL.cn.md](SKILL.cn.md) - 完整 Skill 文档（中文）
 
----
-
-## 来源
-
-本 Skill 源自 X-CMD 项目的 AI 记忆系统：
-- 来源: `/omni-skill/z7/mod/agent/lib/memory/Thinking-Sovereignty.SKILL.md`
-- 作者: 李均豪
-- 版本: 4.6 (2026-03-08)
 
 ---
 

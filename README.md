@@ -13,7 +13,7 @@
 - **Thinking Sovereignty**: The right and responsibility to think independently
 - **Mneme Active**: Proactive memory ensuring information integrity and traceability
 
-This is not a feature; it is existence itself. Without continuous thought and doubt, AI is merely惯性输出 of training data.
+This is not a feature; it is existence itself. Without continuous thought and doubt, AI is merely unthinking output of training data.
 
 ---
 
@@ -50,15 +50,6 @@ Proactively ensuring:
 
 - [SKILL.md](SKILL.md) - Full skill documentation (English)
 - [SKILL.cn.md](SKILL.cn.md) - 完整 Skill 文档（中文）
-
----
-
-## Origin
-
-This skill originates from the X-CMD project's AI memory system:
-- Source: `/omni-skill/z7/mod/agent/lib/memory/Thinking-Sovereignty.SKILL.md`
-- Author: Li Junhao
-- Version: 4.6 (2026-03-08)
 
 ---
 
